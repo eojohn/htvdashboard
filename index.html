@@ -12,28 +12,7 @@
     <!-- font awesome from BootstrapCDN -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <script src="auth0-variables.js"> </script>
-    <link href="app.css" rel="stylesheet">
-  </head>
-  <body class="home">
-    <div class="container">
-        <div class="login-page clearfix">
-          <div class="login-box auth0-box before">
-            <img class="logo" src="https://i.cloudup.com/StzWWrY34s.png" />
-            <h3>Auth0 Passwordless Example</h3>
-            <p>Login with Email Code</p>
-            <div class="alert alert-warning">Don't forget to add your page's origin <strong><script type="text/javascript">document.write(location.origin)</script></strong> to your App's <strong>Allowed Origins (CORS)</strong> in the <a target="_blank" href="https://manage.auth0.com">Auth0 dashboard</a>, unless it is already in the list of <strong>Allowed Callback URLs.</strong></div>
-            <button onclick="login()" class="btn btn-primary btn-lg btn-login btn-block">SignIn</button>
-          </div>
-          <div class="logged-in-box auth0-box logged-in" style="display: none;">
-            <h1 id="logo"><img src="auth0_logo_final_blue_RGB.png" /></h1>
-            <img class="avatar"/>
-            <h2>Welcome <span class="nickname"></span></h2>
-          </div>
-        </div>
-    </div>
-    <script src="https://cdn.auth0.com/js/lock-passwordless-1.0.min.js"></script>
+        <script src="https://cdn.auth0.com/js/lock-passwordless-1.0.min.js"></script>
     <script type="text/javascript">
       function login(){
         // Initialize Passwordless Lock instance
@@ -61,5 +40,26 @@
         });
       }
     </script>
+    <script src="auth0-variables.js"> </script>
+    <link href="app.css" rel="stylesheet">
+  </head>
+  <body class="home">
+    <div class="container">
+        <div class="login-page clearfix">
+          <div class="login-box auth0-box before">
+            <img class="logo" src="https://i.cloudup.com/StzWWrY34s.png" />
+            <h3>Auth0 Passwordless Example</h3>
+            <p>Login with Email Code</p>
+            <div class="alert alert-warning">Don't forget to add your page's origin <strong><script type="text/javascript">document.write(location.origin)</script></strong> to your App's <strong>Allowed Origins (CORS)</strong> in the <a target="_blank" href="https://manage.auth0.com">Auth0 dashboard</a>, unless it is already in the list of <strong>Allowed Callback URLs.</strong></div>
+            <button onclick="login()" class="btn btn-primary btn-lg btn-login btn-block">SignIn</button>
+          </div>
+          <div class="logged-in-box auth0-box logged-in" style="display: none;">
+            <h1 id="logo"><img src="auth0_logo_final_blue_RGB.png" /></h1>
+            <img class="avatar"/>
+            <h2>Welcome <span class="nickname"></span></h2>
+          </div>
+        </div>
+    </div>
+ 
   </body>
 </html>
