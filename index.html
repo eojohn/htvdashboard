@@ -1,63 +1,70 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<head>
+  <title>Dashboard | Hack The Valley</title>
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Spin the wheel, win real money.">
+  <meta property="og:image" content="assets/images/qriket-og-icon.png">
+  <meta property="og:title" content="Packer Schedule"/>
+  <meta property="og:description" content="Packer Schedule App.">
+  <meta name="apple-itunes-app" content="app-id=469250215">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800' rel='stylesheet' type='text/css'>
+  <link type="text/css" rel="stylesheet" href="style.css">
+  <script src="http://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+  <script src="https://cdn.auth0.com/js/lock-passwordless-1.0.min.js"></script>
+  <script type="text/javascript" src="app.js"></script>
 
-    <script src="//use.typekit.net/iws6ohy.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
+ </head>
+<body>
+ <div class="login-page clearfix">
+              <div class="login-box auth0-box before">
+                <img src="https://i.cloudup.com/StzWWrY34s.png" />
+                <h3>Hack The Valley</h3>
+                <a onclick="login()" class=" btn-login ">SignIn</a>
+              </div>
+              <div class="logged-in-box auth0-box logged-in" style="display: none;">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div id="wrapper">
+  <section id="intro" class="section">
+    <div class="introContent">
+     <h1>Your Status</h1>
+<circle class="circle"><p class="status">Pending</p></circle>
 
-    <!-- font awesome from BootstrapCDN -->
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+     </div>
+      <div class="appStoreLinkContainer">
+        <button class="btn-logout">Logout</button>
+ 
+ 
+      </div>
+  </section>
 
-    <script src="auth0-variables.js"> </script>
-    <link href="app.css" rel="stylesheet">
-  </head>
-  <body class="home">
-    <div class="container">
-        <div class="login-page clearfix">
-          <div class="login-box auth0-box before">
-            <img class="logo" src="https://i.cloudup.com/StzWWrY34s.png" />
-         
-            <button onclick="login()" class="btn btn-primary btn-lg btn-login btn-block">SignIn</button>
-          </div>
-          <div class="logged-in-box auth0-box logged-in" style="display: none;">
-            <h1 id="logo"><img src="auth0_logo_final_blue_RGB.png" /></h1>
-            <img class="avatar"/>
-            <h2>Welcome <span class="nickname"></span></h2>
-          </div>
-        </div>
+  <div id="content">
+    <section id="notify" class="section">
+	<!--Notifications section-->
+<section class=" ">
+<div class="feed">
+    <div class="message">Hey!</div>
+        <div class="message">Hey!</div>
+            <div class="message">Hey!</div>
+                <div class="message">Hey!</div>
+
+
+
     </div>
-    <script src="https://cdn.auth0.com/js/lock-passwordless-1.0.min.js"></script>
-    <script type="text/javascript">
-      function login(){
-        // Initialize Passwordless Lock instance
-        var lock = new Auth0LockPasswordless(
-          // All these properties are set in auth0-variables.js
-         'ThjTg1wA4gZADyLKJVkhmSOMpC6gybwA',
-          'eojohn.auth0.com'
-        );
+</section>
+    </section>
 
-        // Open the lock in Email Code mode with the ability to handle
-        // the authentication in page
-        lock.emailcode( function(err, profile, id_token, state) {
-          if (!err) {
-            console.log('profile',profile);
-            console.log('id_token',profile);
-            console.log('state',state);
+     
+ 
 
-            // Save the JWT token.
-            localStorage.setItem('userToken', id_token);
-            $('.login-box').hide();
-            $('.logged-in-box').show();
-            $('.nickname').text(profile.name);
-            $('.avatar').attr('src', profile.picture);
-          }
-        });
-      }
-    </script>
+	</div>
+</div>
+
+</div>
+</div>
+
+<!-- End Card Modal -->
   </body>
 </html>
