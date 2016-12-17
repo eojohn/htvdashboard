@@ -68,7 +68,7 @@ function logout(){    // local storage example
         });
       
     
-     $http.get('file:///Users/eojohn/Desktop/qriket.com/index.html');
+     $http.get('https://eojohn.github.io/htvdashboard/');
 $.ajaxSetup({
   'beforeSend': function(xhr) {
     if (localStorage.getItem('id_token')) {
