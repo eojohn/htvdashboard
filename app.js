@@ -6,7 +6,7 @@
     primaryColor: 'green'
   }  
 };*/
-var options = {"icon":"https://s24.postimg.org/e5zr6ncet/htv_logo_01.png","container":"root","primaryColor":"#F0D96F", "foregroundColor": "#edf5e1", 
+var options = {"icon":"htv_logo-01.png","container":"root","primaryColor":"#F0D96F", "foregroundColor": "#edf5e1", 
 "responseType":"token","autoclose":true,"focusInput":false,"popup":false,"socialBigButtons":true,"dict":{"title":"Hack The Valley"},"authParams":{"scope":"openid email"},"connections":["facebook","twitter"]};
 
   // initialize
@@ -34,10 +34,23 @@ var options = {"icon":"https://s24.postimg.org/e5zr6ncet/htv_logo_01.png","conta
    .orderByChild("email")
    .equalTo(profile.name) //profile.name
    .on("child_added", function(snapshot) {
-
+        var userEmail=snapshot.val().email;
          var userName=snapshot.val().first_name;
          var userStatus=snapshot.val().status;
+         if (userStatus==="P"){
+          userStatus="Pending";}
+          else if(userStatus==="Y"){
+          userStatus="Admitted";
+          $('#notify').show();
+           }else{
+          userStatus=snapshot.val().status;
+                  $('#notify').show();
+           }
                        $('.userName').text(userName);
+                      /* if ( userEmail!== profile.name ){
+                        userStatus="Please wait 5-10 minutes";
+                        $('.status').css('font-size',10 + 'px');
+                       }*/
 
                        $('.status').text(userStatus);
                        if (userName==="Ralph" || "Eon"){
@@ -68,7 +81,7 @@ function logout(){    // local storage example
         });
       
     
-     $http.get('https://eojohn.github.io/htvdashboard/');
+     $http.get('https://www.hackvalley.com/dashboard/');
 $.ajaxSetup({
   'beforeSend': function(xhr) {
     if (localStorage.getItem('id_token')) {
@@ -117,6 +130,7 @@ function submitPost() {
 
 function displayUserPost(text) {
 $('<span class="message child">').text(text).appendTo($('#messages2'));
+ 
 
 /* var elems = document.getElementsByClassName("message");
 var arr = jQuery.makeArray(elems);

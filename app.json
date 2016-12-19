@@ -1,1506 +1,2616 @@
 [{
-	"email": "bryan.willis@mail.utoronto.ca",
 	"first_name": "Bryan",
 	"last_name": "Willis",
-	"status": "Pending"
+	"email": "bryan.willis@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "kohilan7@gmail.com",
 	"first_name": "Kohilan",
 	"last_name": "Mohanarajan",
-	"status": "Pending"
+	"email": "kohilan7@gmail.com",
+	"status": "Y"
 }, {
-	"email": "kuan.song@mail.utoronto.ca",
 	"first_name": "Frank",
 	"last_name": "Song",
-	"status": "Pending"
+	"email": "kuan.song@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "philip.zhang@mail.utoronto.ca",
 	"first_name": "Philip",
 	"last_name": "Zhang",
-	"status": "Pending"
+	"email": "philip.zhang@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "umar.ahmed@mail.utoronto.ca",
 	"first_name": "Umar",
 	"last_name": "Ahmed",
-	"status": "Pending"
+	"email": "umar.ahmed@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ztbarlow66@gmail.com",
 	"first_name": "Zach",
 	"last_name": "Barlow",
-	"status": "Pending"
+	"email": "ztbarlow66@gmail.com",
+	"status": "P"
 }, {
-	"email": "viacheslav.petruniak@mail.utoronto.ca",
 	"first_name": "Viacheslav",
 	"last_name": "Petruniak",
-	"status": "Pending"
+	"email": "viacheslav.petruniak@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "justin.abrokwah@mail.utoronto.ca",
 	"first_name": "Justin",
 	"last_name": "Abrokwah",
-	"status": "Pending"
+	"email": "justin.abrokwah@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "jacob0584@gmail.com",
 	"first_name": "Jacob",
 	"last_name": "Chamberlain",
-	"status": "Pending"
+	"email": "jacob0584@gmail.com",
+	"status": "Y"
 }, {
-	"email": "T.hong@mail.utoronto.ca",
 	"first_name": "Tony",
 	"last_name": "Hong",
-	"status": "Pending"
+	"email": "T.hong@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "dennis.tismenko@mail.utoronto.ca",
 	"first_name": "Dennis",
 	"last_name": "Tismenko",
-	"status": "Pending"
+	"email": "dennis.tismenko@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "omar.chehab@mail.utoronto.ca",
 	"first_name": "Omar",
 	"last_name": "Chehab",
-	"status": "Pending"
+	"email": "omar.chehab@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "eltonlaw296@gmail.com",
 	"first_name": "Elton",
 	"last_name": "Law",
-	"status": "Pending"
+	"email": "eltonlaw296@gmail.com",
+	"status": "Y"
 }, {
-	"email": "charlie.chenyu.zhang@gmail.com",
 	"first_name": "Charlie",
 	"last_name": "Zhang",
-	"status": "Pending"
+	"email": "charlie.chenyu.zhang@gmail.com",
+	"status": "P"
 }, {
-	"email": "spencemcc@gmail.com",
 	"first_name": "Spencer",
 	"last_name": "McCoubrey",
-	"status": "Pending"
+	"email": "spencemcc@gmail.com",
+	"status": "P"
 }, {
-	"email": "abhay6547@gmail.com",
 	"first_name": "Abhay",
 	"last_name": "Vaidya",
-	"status": "Pending"
+	"email": "abhay6547@gmail.com",
+	"status": "Y"
 }, {
-	"email": "bslutsky@gmail.com",
 	"first_name": "Bar",
 	"last_name": "Slutsky",
-	"status": "Pending"
+	"email": "bslutsky@gmail.com",
+	"status": "Y"
 }, {
-	"email": "yh7liu@uwaterloo.ca",
 	"first_name": "Eric",
 	"last_name": "Liu",
-	"status": "Pending"
+	"email": "yh7liu@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "nathan.seebarran@mail.utoronto.ca",
 	"first_name": "Nathan",
 	"last_name": "Seebarran",
-	"status": "Pending"
+	"email": "nathan.seebarran@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "parth.thakkar@mail.utoronto.ca",
 	"first_name": "Parth",
 	"last_name": "Thakkar",
-	"status": "Pending"
+	"email": "parth.thakkar@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "daniel.hugh@mail.utoronto.ca",
 	"first_name": "Daniel",
 	"last_name": "Hugh",
-	"status": "Pending"
+	"email": "daniel.hugh@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "patentftw@gmail.com",
 	"first_name": "Patent",
 	"last_name": "Li",
-	"status": "Pending"
+	"email": "patentftw@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sasori.pan@mail.utoronto.ca",
 	"first_name": "Zhili (Jerry)",
 	"last_name": "Pan",
-	"status": "Pending"
+	"email": "sasori.pan@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "coderminty@gmail.com",
 	"first_name": "Abhishek",
 	"last_name": "Mukherjee",
-	"status": "Pending"
+	"email": "coderminty@gmail.com",
+	"status": "Y"
 }, {
-	"email": "v.teng@mail.utoronto.ca",
 	"first_name": "Vincent",
 	"last_name": "Teng",
-	"status": "Pending"
+	"email": "v.teng@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "sakeeb.hossain@mail.utoronto.ca",
 	"first_name": "Sakeeb",
 	"last_name": "Hossain",
-	"status": "Pending"
+	"email": "sakeeb.hossain@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "gkaberwal@hotmail.com",
 	"first_name": "Gaganpreet",
 	"last_name": "Kaberwal",
-	"status": "Pending"
+	"email": "gkaberwal@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "rocruz9816@gmail.com",
 	"first_name": "Rolando",
 	"last_name": "Cruz",
-	"status": "Pending"
+	"email": "rocruz9816@gmail.com",
+	"status": "P"
 }, {
-	"email": "prantar.bhowmik@mail.utoronto.ca",
 	"first_name": "Prantar",
 	"last_name": "Bhowmik",
-	"status": "Pending"
+	"email": "prantar.bhowmik@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "fergus.horrobin@mail.utoronto.ca",
 	"first_name": "Fergus",
 	"last_name": "Horrobin",
-	"status": "Pending"
+	"email": "fergus.horrobin@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "i@cnbeining.com",
 	"first_name": "David",
 	"last_name": "Zhuang",
-	"status": "Pending"
+	"email": "i@cnbeining.com",
+	"status": "Y"
 }, {
-	"email": "alexborodin@outlook.com",
 	"first_name": "Alexander",
 	"last_name": "Borodin",
-	"status": "Pending"
+	"email": "alexborodin@outlook.com",
+	"status": "Y"
 }, {
-	"email": "jeffclub51@yahoo.ca",
 	"first_name": "Yun Jie (Jeffrey)",
 	"last_name": "Li",
-	"status": "Pending"
+	"email": "jeffclub51@yahoo.ca",
+	"status": "P"
 }, {
-	"email": "jeff.no.zhao@gmail.com",
 	"first_name": "Jiayi",
 	"last_name": "Zhao",
-	"status": "Pending"
+	"email": "jeff.no.zhao@gmail.com",
+	"status": "Y"
 }, {
-	"email": "alexw.wong@mail.utoronto.ca",
 	"first_name": "Alex",
 	"last_name": "Wong",
-	"status": "Pending"
+	"email": "alexw.wong@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "daryl.yuen@mail.utoronto.com",
 	"first_name": "Daryl",
 	"last_name": "Yuen",
-	"status": "Pending"
+	"email": "daryl.yuen@mail.utoronto.com",
+	"status": "Y"
 }, {
-	"email": "joshuasun1998@icloud.com",
 	"first_name": "Josh",
 	"last_name": "Sun",
-	"status": "Pending"
+	"email": "joshuasun1998@icloud.com",
+	"status": "Y"
 }, {
-	"email": "sbrown.colleen@hotmail.com",
 	"first_name": "Colleen",
 	"last_name": "Brown",
-	"status": "Pending"
+	"email": "sbrown.colleen@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "minhaz.khan@mail.utoronto.ca",
 	"first_name": "Minhaz ",
 	"last_name": "Khan",
-	"status": "Pending"
+	"email": "minhaz.khan@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "timsun1@gmail.com",
 	"first_name": "Tim",
 	"last_name": "Lu",
-	"status": "Pending"
+	"email": "timsun1@gmail.com",
+	"status": "P"
 }, {
-	"email": "allenylhan@gmail.com",
 	"first_name": "allen",
 	"last_name": "han",
-	"status": "Pending"
+	"email": "allenylhan@gmail.com",
+	"status": "Y"
 }, {
-	"email": "farial_1996@hotmail.com",
 	"first_name": "Farial",
 	"last_name": "Fazle",
-	"status": "Pending"
+	"email": "farial_1996@hotmail.com",
+	"status": "P"
 }, {
-	"email": "kevin.faust@mail.utoronto.ca",
 	"first_name": "kevin",
 	"last_name": "faust",
-	"status": "Pending"
+	"email": "kevin.faust@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "joseph.sokolon@mail.utoronto.ca",
 	"first_name": "Joseph",
 	"last_name": "Sokolon",
-	"status": "Pending"
+	"email": "joseph.sokolon@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "seanvanwyk41@gmail.com",
 	"first_name": "Sean",
 	"last_name": "van Wyk",
-	"status": "Pending"
+	"email": "seanvanwyk41@gmail.com",
+	"status": "Y"
 }, {
-	"email": "167rhys@gmail.com",
 	"first_name": "Rhys",
 	"last_name": "Rustad-Elliott",
-	"status": "Pending"
+	"email": "167rhys@gmail.com",
+	"status": "P"
 }, {
-	"email": "derek.etherton@mail.utoronto.ca",
 	"first_name": "Derek",
 	"last_name": "Etherton",
-	"status": "Pending"
+	"email": "derek.etherton@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "hussien.hussien@mail.utoronto.ca",
 	"first_name": "Hussien",
 	"last_name": "Hussien",
-	"status": "Pending"
+	"email": "hussien.hussien@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "minhal7@hotmail.com",
 	"first_name": "Minhal",
 	"last_name": "Syed",
-	"status": "Pending"
+	"email": "minhal7@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "simonguozirui@gmail.com",
 	"first_name": "Simon (Zirui)",
 	"last_name": "Guo",
-	"status": "Pending"
+	"email": "simonguozirui@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sean.cao@mail.utoronto.ca",
 	"first_name": "Sean",
 	"last_name": "Cao",
-	"status": "Pending"
+	"email": "sean.cao@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "felixchen1998@gmail.com",
 	"first_name": "Felix",
 	"last_name": "Chen",
-	"status": "Pending"
+	"email": "felixchen1998@gmail.com",
+	"status": "P"
 }, {
-	"email": "sehmim2020@gmail.com",
 	"first_name": "Sehmim",
 	"last_name": "Haque",
-	"status": "Pending"
+	"email": "sehmim2020@gmail.com",
+	"status": "P"
 }, {
-	"email": "anson.ching@utoronto.ca",
 	"first_name": "Anson ",
 	"last_name": "Ching",
-	"status": "Pending"
+	"email": "anson.ching@utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "choyin.yong@mail.utoronto.ca",
 	"first_name": "Cho Yin",
 	"last_name": "Yong",
-	"status": "Pending"
+	"email": "choyin.yong@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "alexwaltercann@gmail.com",
 	"first_name": "alex",
 	"last_name": "cann",
-	"status": "Pending"
+	"email": "alexwaltercann@gmail.com",
+	"status": "Y"
 }, {
-	"email": "dharmik.shah@mail.utoronto.ca",
 	"first_name": "Dharmik",
 	"last_name": "Shah",
-	"status": "Pending"
+	"email": "dharmik.shah@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "numan@live.ca",
 	"first_name": "Numan",
 	"last_name": "Demiray",
-	"status": "Pending"
+	"email": "numan@live.ca",
+	"status": "P"
 }, {
-	"email": "gawainl26@gmail.com",
 	"first_name": "Gavin",
 	"last_name": "Leung",
-	"status": "Pending"
+	"email": "gawainl26@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sadi.wali@mail.utoronto.ca",
 	"first_name": "Sadi",
 	"last_name": "Wali",
-	"status": "Pending"
+	"email": "sadi.wali@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "usman98789@hotmail.com",
 	"first_name": "Usman",
 	"last_name": "Siddiqui",
-	"status": "Pending"
+	"email": "usman98789@hotmail.com",
+	"status": "P"
 }, {
-	"email": "maroofrauf5@gmail.com",
 	"first_name": "Maroof",
 	"last_name": "Rauf",
-	"status": "Pending"
+	"email": "maroofrauf5@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sis.anh@gmail.com",
 	"first_name": "Cong Anh",
 	"last_name": "Truong",
-	"status": "Pending"
+	"email": "sis.anh@gmail.com",
+	"status": "P"
 }, {
-	"email": "gondal.aysha@gmail.com",
 	"first_name": "Aysha",
 	"last_name": "Gondal",
-	"status": "Pending"
+	"email": "gondal.aysha@gmail.com",
+	"status": "P"
 }, {
-	"email": "hyyoung@uwaterloo.ca",
 	"first_name": "Sherwin",
 	"last_name": "Young",
-	"status": "Pending"
+	"email": "hyyoung@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "yuxiang.dai43@gmail.com",
 	"first_name": "Yuxiang",
 	"last_name": "Dai",
-	"status": "Pending"
+	"email": "yuxiang.dai43@gmail.com",
+	"status": "Y"
 }, {
-	"email": "yunan.shi@mail.utoronto.ca",
 	"first_name": "Yunan",
 	"last_name": "Shi",
-	"status": "Pending"
+	"email": "yunan.shi@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "wilson.zhu20@gmail.com",
 	"first_name": "Wilson",
 	"last_name": "Zhu",
-	"status": "Pending"
+	"email": "wilson.zhu20@gmail.com",
+	"status": "P"
 }, {
-	"email": "rkar@ryerson.ca",
 	"first_name": "Rishi",
 	"last_name": "Kar",
-	"status": "Pending"
+	"email": "rkar@ryerson.ca",
+	"status": "Y"
 }, {
-	"email": "me@wgma00.me",
 	"first_name": "William",
 	"last_name": "Granados",
-	"status": "Pending"
+	"email": "me@wgma00.me",
+	"status": "Y"
 }, {
-	"email": "william.cher@outlook.com",
 	"first_name": "William",
 	"last_name": "Cher",
-	"status": "Pending"
+	"email": "william.cher@outlook.com",
+	"status": "P"
 }, {
-	"email": "brianpk.ho@mail.utoronto.ca",
 	"first_name": "Brian",
 	"last_name": "Ho",
-	"status": "Pending"
+	"email": "brianpk.ho@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ansonychan98@gmail.com",
 	"first_name": "Anson",
 	"last_name": "Chan",
-	"status": "Pending"
+	"email": "ansonychan98@gmail.com",
+	"status": "P"
 }, {
-	"email": "hasanul.banna@mail.utoronto.ca",
 	"first_name": "Hasanul",
 	"last_name": "Banna",
-	"status": "Pending"
+	"email": "hasanul.banna@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "M3Hameed@gmail.com",
 	"first_name": "Mohammad",
 	"last_name": "Hameed",
-	"status": "Pending"
+	"email": "M3Hameed@gmail.com",
+	"status": "Y"
 }, {
-	"email": "tony.zeng@mail.utoronto.ca",
 	"first_name": "Tony",
 	"last_name": "Zeng",
-	"status": "Pending"
+	"email": "tony.zeng@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "darius.asri@gmail.com",
 	"first_name": "Mahdi",
 	"last_name": "Shayesteh",
-	"status": "Pending"
+	"email": "darius.asri@gmail.com",
+	"status": "P"
 }, {
-	"email": "alexei.coreiba@gmail.com",
 	"first_name": "Alexei",
 	"last_name": "Coreiba",
-	"status": "Pending"
+	"email": "alexei.coreiba@gmail.com",
+	"status": "Y"
 }, {
-	"email": "mail.kamalandson@gmail.com",
 	"first_name": "Mohammed",
 	"last_name": "Islam",
-	"status": "Pending"
+	"email": "mail.kamalandson@gmail.com",
+	"status": "Y"
 }, {
-	"email": "stephen.luc@mail.utoronto.ca",
 	"first_name": "Stephen",
 	"last_name": "Luc",
-	"status": "Pending"
+	"email": "stephen.luc@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "kkjason.cheung@mail.utoronto.ca",
 	"first_name": "Ka Kit Jason",
 	"last_name": "Cheung",
-	"status": "Pending"
+	"email": "kkjason.cheung@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "abhishek.mahadevan@mail.utoronto.ca",
 	"first_name": "Abhishek",
 	"last_name": "Mahadevan",
-	"status": "Pending"
+	"email": "abhishek.mahadevan@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "me@jasonpham.ca",
 	"first_name": "Jason",
 	"last_name": "Pham",
-	"status": "Pending"
+	"email": "me@jasonpham.ca",
+	"status": "Y"
 }, {
-	"email": "shrijan.rk@gmail.com",
 	"first_name": "Shrijan",
 	"last_name": "Rajkarnikar",
-	"status": "Pending"
+	"email": "shrijan.rk@gmail.com",
+	"status": "Y"
 }, {
-	"email": "balaji.babu1998@gmail.com",
 	"first_name": "Balaji",
 	"last_name": "Babu",
-	"status": "Pending"
+	"email": "balaji.babu1998@gmail.com",
+	"status": "Y"
 }, {
-	"email": "gsarki@gmail.com",
 	"first_name": "Edgar",
 	"last_name": "Sarkisian",
-	"status": "Pending"
+	"email": "gsarki@gmail.com",
+	"status": "Y"
 }, {
-	"email": "ashutoshp98@hotmail.com",
 	"first_name": "Ashutosh",
 	"last_name": "Patel",
-	"status": "Pending"
+	"email": "ashutoshp98@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "kareem158@hotmail.com",
 	"first_name": "Kareem",
 	"last_name": "Hage-ali",
-	"status": "Pending"
+	"email": "kareem158@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "proubatsis@gmail.com",
 	"first_name": "Peter",
 	"last_name": "Roubatsis",
-	"status": "Pending"
+	"email": "proubatsis@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sandvichtouchmygun@gmail.com",
 	"first_name": "David",
 	"last_name": "Wan",
-	"status": "Pending"
+	"email": "sandvichtouchmygun@gmail.com",
+	"status": "P"
 }, {
-	"email": "usama.tahir@mail.utoronto.ca",
 	"first_name": "Usama",
 	"last_name": "Tahir",
-	"status": "Pending"
+	"email": "usama.tahir@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "k.mo@mail.utoronto.ca",
 	"first_name": "Kelly",
 	"last_name": "Mo",
-	"status": "Pending"
+	"email": "k.mo@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "gebob19@gmail.com",
 	"first_name": "Brennan",
 	"last_name": "Gebotys",
-	"status": "Pending"
+	"email": "gebob19@gmail.com",
+	"status": "P"
 }, {
-	"email": "titus.wong@mail.utoronto.ca",
 	"first_name": "Titus",
 	"last_name": "Wong",
-	"status": "Pending"
+	"email": "titus.wong@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "Zahy.ahmed@gmail.com",
 	"first_name": "Zahy",
 	"last_name": "Aziz",
-	"status": "Pending"
+	"email": "Zahy.ahmed@gmail.com",
+	"status": "P"
 }, {
-	"email": "kevindang22@gmail.com",
 	"first_name": "Kevin",
 	"last_name": "Dang",
-	"status": "Pending"
+	"email": "kevindang22@gmail.com",
+	"status": "P"
 }, {
-	"email": "martinwk.ho@mail.utoronto.ca",
 	"first_name": "Martin",
 	"last_name": "Ho",
-	"status": "Pending"
+	"email": "martinwk.ho@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "angelina.choi@mail.utoronto.ca",
 	"first_name": "Angelina",
 	"last_name": "Choi",
-	"status": "Pending"
+	"email": "angelina.choi@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ian.dn.tran@gmail.com",
 	"first_name": "Ian",
 	"last_name": "Tran",
-	"status": "Pending"
+	"email": "ian.dn.tran@gmail.com",
+	"status": "Y"
 }, {
-	"email": "marion.vasantharajah@mail.utoronto.ca",
 	"first_name": "Marion",
 	"last_name": "Vasantharajah",
-	"status": "Pending"
+	"email": "marion.vasantharajah@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "bakht.zahidj@gmail.com",
 	"first_name": "Zahid",
 	"last_name": "Bakht",
-	"status": "Pending"
+	"email": "bakht.zahidj@gmail.com",
+	"status": "Y"
 }, {
-	"email": "ji.yin@mail.utoronto.ca",
 	"first_name": "Mike",
 	"last_name": "Yin",
-	"status": "Pending"
+	"email": "ji.yin@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "charlie.chenyu.zhang@gmail.com",
 	"first_name": "Charlie",
 	"last_name": "Zhang",
-	"status": "Pending"
+	"email": "charlie.chenyu.zhang@gmail.com",
+	"status": "Y"
 }, {
-	"email": "renzo.reyes@mail.utoronto.ca",
 	"first_name": "Renzo",
 	"last_name": "Reyes",
-	"status": "Pending"
+	"email": "renzo.reyes@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "danveer.saini@ryerson.ca",
 	"first_name": "Danveer",
 	"last_name": "Saini",
-	"status": "Pending"
+	"email": "danveer.saini@ryerson.ca",
+	"status": "Y"
 }, {
-	"email": "billo.huang@mail.utoronto.ca",
 	"first_name": "Bill",
 	"last_name": "Huang",
-	"status": "Pending"
+	"email": "billo.huang@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "hyewon.choi@mail.utoronto.ca",
 	"first_name": "Jena",
 	"last_name": "Choi",
-	"status": "Pending"
+	"email": "hyewon.choi@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "billo.huang@mail.utoronto.ca",
 	"first_name": "Bill",
 	"last_name": "Huang",
-	"status": "Pending"
+	"email": "billo.huang@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "neeilan.selvalingam@mail.utoronto.ca",
 	"first_name": "Neeilan",
 	"last_name": "Selvalingam",
-	"status": "Pending"
+	"email": "neeilan.selvalingam@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "alexander.chum@mail.utoronto.ca",
 	"first_name": "Alexander",
 	"last_name": "Chum",
-	"status": "Pending"
+	"email": "alexander.chum@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "jk3huang@uwaterloo.ca",
 	"first_name": "Michael",
 	"last_name": "Huang",
-	"status": "Pending"
+	"email": "jk3huang@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "bruntontom131@gmail.com",
 	"first_name": "Tom",
 	"last_name": "Brunton",
-	"status": "Pending"
+	"email": "bruntontom131@gmail.com",
+	"status": "P"
 }, {
-	"email": "alex.ng.personal@gmail.com",
 	"first_name": "Alex",
 	"last_name": "Ng",
-	"status": "Pending"
+	"email": "alex.ng.personal@gmail.com",
+	"status": "Y"
 }, {
-	"email": "yue.gan@mail.utoronto.ca",
 	"first_name": "Gavin",
 	"last_name": "Gan",
-	"status": "Pending"
+	"email": "yue.gan@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ianrenaldo@gmail.com",
 	"first_name": "Ian Renaldo",
 	"last_name": "Tjia",
-	"status": "Pending"
+	"email": "ianrenaldo@gmail.com",
+	"status": "Y"
 }, {
-	"email": "henryracoomb@gmail.com",
 	"first_name": "Henry",
 	"last_name": "Wu",
-	"status": "Pending"
+	"email": "henryracoomb@gmail.com",
+	"status": "P"
 }, {
-	"email": "robert.pan@uwaterloo.ca",
 	"first_name": "Robert",
 	"last_name": "Pan",
-	"status": "Pending"
+	"email": "robert.pan@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "brad.cross.macdiarmid@mail.utoronto.ca",
 	"first_name": "Brad",
 	"last_name": "Cross",
-	"status": "Pending"
+	"email": "brad.cross.macdiarmid@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "pany11@mcmaster.ca",
 	"first_name": "Ivan",
 	"last_name": "Pan",
-	"status": "Pending"
+	"email": "pany11@mcmaster.ca",
+	"status": "Y"
 }, {
-	"email": "andrei.grumazescu@mail.toronto.ca",
 	"first_name": "Andrei",
 	"last_name": "Grumazescu",
-	"status": "Pending"
+	"email": "andrei.grumazescu@mail.toronto.ca",
+	"status": "P"
 }, {
-	"email": "pratyasha_agrawal@hotmail.com",
 	"first_name": "Pratyasha",
 	"last_name": "Agrawal",
-	"status": "Pending"
+	"email": "pratyasha_agrawal@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "j.khiani1@gmail.com",
 	"first_name": "Jitesh",
 	"last_name": "Khiani",
-	"status": "Pending"
+	"email": "j.khiani1@gmail.com",
+	"status": "Y"
 }, {
-	"email": "adityasurabi@gmail.com",
 	"first_name": "Aditya",
 	"last_name": "Surabi",
-	"status": "Pending"
+	"email": "adityasurabi@gmail.com",
+	"status": "Y"
 }, {
-	"email": "adriann.chan@utoronto.ca",
 	"first_name": "Adrian",
 	"last_name": "Chan",
-	"status": "Pending"
+	"email": "adriann.chan@utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "teejayyang35@gmail.com",
 	"first_name": "TJ",
 	"last_name": "Yang",
-	"status": "Pending"
+	"email": "teejayyang35@gmail.com",
+	"status": "Y"
 }, {
-	"email": "hs27lee@edu.uwaterloo.ca",
 	"first_name": "Han Se (Andrew)",
 	"last_name": "Lee",
-	"status": "Pending"
+	"email": "hs27lee@edu.uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "yash.mathur@uwaterloo.ca",
 	"first_name": "Yash",
 	"last_name": "Mathur",
-	"status": "Pending"
+	"email": "yash.mathur@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "ksmahmoo@edu.uwaterloo.ca",
 	"first_name": "Khan Sajid",
 	"last_name": "Mahmood",
-	"status": "Pending"
+	"email": "ksmahmoo@edu.uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "k22jain@uwaterloo.ca",
 	"first_name": "Kshitij",
 	"last_name": "Jain",
-	"status": "Pending"
+	"email": "k22jain@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "yche544@uwo.ca",
 	"first_name": "Yuan",
 	"last_name": "Chen",
-	"status": "Pending"
+	"email": "yche544@uwo.ca",
+	"status": "Y"
 }, {
-	"email": "pj.sitthideth.montero@mail.utoronto.ca",
 	"first_name": "Philippe",
 	"last_name": "Montero",
-	"status": "Pending"
+	"email": "pj.sitthideth.montero@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ansaf.ahmad@mail.utoronto.ca",
 	"first_name": "Ansaf",
 	"last_name": "Ahmad",
-	"status": "Pending"
+	"email": "ansaf.ahmad@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "calvinga.lee@mail.utoronto.ca",
 	"first_name": "Ga-Fu",
 	"last_name": "Lee",
-	"status": "Pending"
+	"email": "calvinga.lee@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "nagarjun.ratnesh@mail.utoronto.ca",
 	"first_name": "Nagarjun",
 	"last_name": "Ratnesh",
-	"status": "Pending"
+	"email": "nagarjun.ratnesh@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "labana_rk@hotmail.com",
 	"first_name": "Retinder",
 	"last_name": "Labana",
-	"status": "Pending"
+	"email": "labana_rk@hotmail.com",
+	"status": "P"
 }, {
-	"email": "frenchsatchel@gmail.com",
 	"first_name": "Satchel",
 	"last_name": "French",
-	"status": "Pending"
+	"email": "frenchsatchel@gmail.com",
+	"status": "Y"
 }, {
-	"email": "brii.quach@mail.utoronto.ca",
 	"first_name": "Brian",
 	"last_name": "Quach",
-	"status": "Pending"
+	"email": "brii.quach@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "harshvp17@gmail.com",
 	"first_name": "Harshvadan",
 	"last_name": "Prajapati",
-	"status": "Pending"
+	"email": "harshvp17@gmail.com",
+	"status": "P"
 }, {
-	"email": "13nah@queensu.ca",
 	"first_name": "Noam",
 	"last_name": "Hacker",
-	"status": "Pending"
+	"email": "13nah@queensu.ca",
+	"status": "Y"
 }, {
-	"email": "ryan.huang@mail.utoronto.ca",
 	"first_name": "Ryan",
 	"last_name": "Huang",
-	"status": "Pending"
+	"email": "ryan.huang@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "z74hu@edu.uwaterloo.ca",
 	"first_name": "ZHIQING",
 	"last_name": "HU",
-	"status": "Pending"
+	"email": "z74hu@edu.uwaterloo.ca",
+	"status": "P"
 }, {
-	"email": "bekzod.tursunov@mail.utoronto.ca",
 	"first_name": "Bekzod",
 	"last_name": "Tursunov",
-	"status": "Pending"
+	"email": "bekzod.tursunov@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "neel.mehta@uwaterloo.ca",
 	"first_name": "Neel",
 	"last_name": "Mehta",
-	"status": "Pending"
+	"email": "neel.mehta@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "y45zhong@edu.uwaterloo.ca",
 	"first_name": "Yiming",
 	"last_name": "Zhong",
-	"status": "Pending"
+	"email": "y45zhong@edu.uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "hn3li@uwaterloo.ca",
 	"first_name": "Tony",
 	"last_name": "Li",
-	"status": "Pending"
+	"email": "hn3li@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "i87960059@hotmail.com",
 	"first_name": "Danliang",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "i87960059@hotmail.com",
+	"status": "P"
 }, {
-	"email": "daerian.dilkumar@mail.utoronto.ca",
 	"first_name": "Daerian",
 	"last_name": "Dilkumar",
-	"status": "Pending"
+	"email": "daerian.dilkumar@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "hygzhu@gmail.com",
 	"first_name": "Haoyang",
 	"last_name": "Zhu",
-	"status": "Pending"
+	"email": "hygzhu@gmail.com",
+	"status": "Y"
 }, {
-	"email": "ytgary.leung@mail.utoronto.ca",
 	"first_name": "Gary",
 	"last_name": "Leung",
-	"status": "Pending"
+	"email": "ytgary.leung@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ben.zhang@uwaterloo.ca",
 	"first_name": "Chuan Tian (Ben)",
 	"last_name": "Zhang",
-	"status": "Pending"
+	"email": "ben.zhang@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "n2sarava@uwaterloo.ca",
 	"first_name": "Nikshep",
 	"last_name": "Svn",
-	"status": "Pending"
+	"email": "n2sarava@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "r2walia@edu.uwaterloo.ca",
 	"first_name": "Riya",
 	"last_name": "Walia",
-	"status": "Pending"
+	"email": "r2walia@edu.uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "eugene.r.w.12@gmail.com",
 	"first_name": "Eugene ",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "eugene.r.w.12@gmail.com",
+	"status": "Y"
 }, {
-	"email": "claudiolener98@gmail.com",
 	"first_name": "Claudio",
 	"last_name": "Lener",
-	"status": "Pending"
+	"email": "claudiolener98@gmail.com",
+	"status": "Y"
 }, {
-	"email": "a3balaji@uwaterloo.ca",
 	"first_name": "Ambareesh",
 	"last_name": "Balaji",
-	"status": "Pending"
+	"email": "a3balaji@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "rh_syed@outlook.com",
 	"first_name": "Syed",
 	"last_name": "Rahman",
-	"status": "Pending"
+	"email": "rh_syed@outlook.com",
+	"status": "Y"
 }, {
-	"email": "umar.patel@mail.utoronto.ca",
 	"first_name": "Umar",
 	"last_name": "Patel",
-	"status": "Pending"
+	"email": "umar.patel@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "betty.kwong@uoit.net",
 	"first_name": "Betty",
 	"last_name": "Kwong",
-	"status": "Pending"
+	"email": "betty.kwong@uoit.net",
+	"status": "P"
 }, {
-	"email": "jayarquelada@gmail.com",
 	"first_name": "Jayden",
 	"last_name": "Arquelada",
-	"status": "Pending"
+	"email": "jayarquelada@gmail.com",
+	"status": "P"
 }, {
-	"email": "brianchim1@gmail.com",
 	"first_name": "Brian",
 	"last_name": "Chim",
-	"status": "Pending"
+	"email": "brianchim1@gmail.com",
+	"status": "Y"
 }, {
-	"email": "eyaz.rehman@uoit.net",
 	"first_name": "Eyaz",
 	"last_name": "Rehman",
-	"status": "Pending"
+	"email": "eyaz.rehman@uoit.net",
+	"status": "Y"
 }, {
-	"email": "jiaju.li@mail.utoronto.ca",
 	"first_name": "Jiajun",
 	"last_name": "Li",
-	"status": "Pending"
+	"email": "jiaju.li@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "thuvaa.tt@gmail.com",
 	"first_name": "Thuvaa",
 	"last_name": "Thave",
-	"status": "Pending"
+	"email": "thuvaa.tt@gmail.com",
+	"status": "Y"
 }, {
-	"email": "a@gmail.com",
 	"first_name": "r",
 	"last_name": "d",
-	"status": "Pending"
+	"email": "a@gmail.com",
+	"status": "P"
 }, {
-	"email": "austin.seto@mail.utoronto.ca",
 	"first_name": "Austin",
 	"last_name": "Seto",
-	"status": "Pending"
+	"email": "austin.seto@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "essam.isabhai@gmail.com",
 	"first_name": "Essam",
 	"last_name": "Isabhai",
-	"status": "Pending"
+	"email": "essam.isabhai@gmail.com",
+	"status": "P"
 }, {
-	"email": "raph.koh@gmail.com",
 	"first_name": "Raphael",
 	"last_name": "Koh",
-	"status": "Pending"
+	"email": "raph.koh@gmail.com",
+	"status": "Y"
 }, {
-	"email": "laine.london@mail.utoronto.ca",
 	"first_name": "Laine",
 	"last_name": "London",
-	"status": "Pending"
+	"email": "laine.london@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "ngo.trev.95@gmail.com",
 	"first_name": "Trevor",
 	"last_name": "Ngo",
-	"status": "Pending"
+	"email": "ngo.trev.95@gmail.com",
+	"status": "P"
 }, {
-	"email": "m.ding5692@gmail.com",
 	"first_name": "Michael",
 	"last_name": "Ding",
-	"status": "Pending"
+	"email": "m.ding5692@gmail.com",
+	"status": "Y"
 }, {
-	"email": "chunho1@outlook.com",
 	"first_name": "Chun Ho",
 	"last_name": "Lee",
-	"status": "Pending"
+	"email": "chunho1@outlook.com",
+	"status": "P"
 }, {
-	"email": "tanaan98@hotmail.com",
 	"first_name": "Tanaan",
 	"last_name": "Karunakaran",
-	"status": "Pending"
+	"email": "tanaan98@hotmail.com",
+	"status": "P"
 }, {
-	"email": "djinadasa19@gmail.com",
 	"first_name": "Dulanji",
 	"last_name": "Jinadasa",
-	"status": "Pending"
+	"email": "djinadasa19@gmail.com",
+	"status": "Y"
 }, {
-	"email": "jeff.lin.97@gmail.com",
 	"first_name": "Jeff",
 	"last_name": "Lin",
-	"status": "Pending"
+	"email": "jeff.lin.97@gmail.com",
+	"status": "P"
 }, {
-	"email": "devanshcshah@gmail.com",
 	"first_name": "Devansh",
 	"last_name": "Shah",
-	"status": "Pending"
+	"email": "devanshcshah@gmail.com",
+	"status": "Y"
 }, {
-	"email": "frankx2012@hotmail.ca",
 	"first_name": "Frank",
 	"last_name": "Xu",
-	"status": "Pending"
+	"email": "frankx2012@hotmail.ca",
+	"status": "P"
 }, {
-	"email": "ahndrewtam@gmail.com",
 	"first_name": "Andrew",
 	"last_name": "Tam",
-	"status": "Pending"
+	"email": "ahndrewtam@gmail.com",
+	"status": "Y"
 }, {
-	"email": "cathy.hua@gmail.com",
 	"first_name": "Cathy (Wan Ru)",
 	"last_name": "Hua",
-	"status": "Pending"
+	"email": "cathy.hua@gmail.com",
+	"status": "Y"
 }, {
-	"email": "ganishka.bakshi@mail.utoronto.ca",
 	"first_name": "Ganishka",
 	"last_name": "Bakshi",
-	"status": "Pending"
+	"email": "ganishka.bakshi@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "jason_yihai_zhou@hotmail.com",
 	"first_name": "Jason (Yi Hai)",
 	"last_name": "Zhou",
-	"status": "Pending"
+	"email": "jason_yihai_zhou@hotmail.com",
+	"status": "P"
 }, {
-	"email": "domingohui@gmail.com",
 	"first_name": "Domingo",
 	"last_name": "Hui",
-	"status": "Pending"
+	"email": "domingohui@gmail.com",
+	"status": "Y"
 }, {
-	"email": "vidurmenezes@gmail.com",
 	"first_name": "vidur",
 	"last_name": "menezes",
-	"status": "Pending"
+	"email": "vidurmenezes@gmail.com",
+	"status": "P"
 }, {
-	"email": "kmrozario98@gmail.com",
 	"first_name": "Kenny",
 	"last_name": "Rozario",
-	"status": "Pending"
+	"email": "kmrozario98@gmail.com",
+	"status": "Y"
 }, {
-	"email": "cherise.bryan@mail.utoronto.ca",
 	"first_name": "Cherise",
 	"last_name": "Bryan",
-	"status": "Pending"
+	"email": "cherise.bryan@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "sammy.haque@mail.utoronto.ca",
 	"first_name": "Samiul",
 	"last_name": "Haque",
-	"status": "Pending"
+	"email": "sammy.haque@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "riyaz.shaikh33@icloud.com",
 	"first_name": "Riyaz",
 	"last_name": "Shaikh",
-	"status": "Pending"
+	"email": "riyaz.shaikh33@icloud.com",
+	"status": "Y"
 }, {
-	"email": "petchsycp@gmail.com",
 	"first_name": "Charles",
 	"last_name": "Petchsy",
-	"status": "Pending"
+	"email": "petchsycp@gmail.com",
+	"status": "P"
 }, {
-	"email": "RyanAbraham@cmail.carleton.ca",
 	"first_name": "Ryan",
 	"last_name": "Abraham",
-	"status": "Pending"
+	"email": "RyanAbraham@cmail.carleton.ca",
+	"status": "P"
 }, {
-	"email": "tongg@myumanitoba.ca",
 	"first_name": "Gary",
 	"last_name": "Tong",
-	"status": "Pending"
+	"email": "tongg@myumanitoba.ca",
+	"status": "Y"
 }, {
-	"email": "ankur.papneja50@gmail.com",
 	"first_name": "Ankur",
 	"last_name": "Papneja",
-	"status": "Pending"
+	"email": "ankur.papneja50@gmail.com",
+	"status": "Y"
 }, {
-	"email": "alexander.gj.wang@gmail.com",
 	"first_name": "Alex",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "alexander.gj.wang@gmail.com",
+	"status": "P"
 }, {
-	"email": "Williamchow_98@Sympatico.ca",
 	"first_name": "William",
 	"last_name": "Chow",
-	"status": "Pending"
+	"email": "Williamchow_98@Sympatico.ca",
+	"status": "P"
 }, {
-	"email": "willan@mac.com",
 	"first_name": "Will",
 	"last_name": "Nippard",
-	"status": "Pending"
+	"email": "willan@mac.com",
+	"status": "Y"
 }, {
-	"email": "liu.jordan.com@gmail.com",
 	"first_name": "Jordan",
 	"last_name": "Liu",
-	"status": "Pending"
+	"email": "liu.jordan.com@gmail.com",
+	"status": "P"
 }, {
-	"email": "fuad.mohamoud@und.edu",
 	"first_name": "Fuad",
 	"last_name": "Mohamoud",
-	"status": "Pending"
+	"email": "fuad.mohamoud@und.edu",
+	"status": "P"
 }, {
-	"email": "nchauha4@uwo.ca",
 	"first_name": "Neil",
 	"last_name": "Chauhan",
-	"status": "Pending"
+	"email": "nchauha4@uwo.ca",
+	"status": "P"
 }, {
-	"email": "kirmani.marium@gmail.com",
 	"first_name": "Marium",
 	"last_name": "Kirmani",
-	"status": "Pending"
+	"email": "kirmani.marium@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sahan.dealmeida@mail.utoronto.ca",
 	"first_name": "Paliharalalage",
 	"last_name": "De Almeida",
-	"status": "Pending"
+	"email": "sahan.dealmeida@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "h.neukc@gmail.com",
 	"first_name": "Neumann",
 	"last_name": "Hon",
-	"status": "Pending"
+	"email": "h.neukc@gmail.com",
+	"status": "Y"
 }, {
-	"email": "andrey.khesin@gmail.com",
 	"first_name": "Andrey",
 	"last_name": "Khesin",
-	"status": "Pending"
+	"email": "andrey.khesin@gmail.com",
+	"status": "P"
 }, {
-	"email": "findjoshj@hotmail.com",
 	"first_name": "Joshua",
 	"last_name": "John",
-	"status": "Pending"
+	"email": "findjoshj@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "pp5patel@uwaterloo.ca",
 	"first_name": "Parth",
 	"last_name": "Patel",
-	"status": "Pending"
+	"email": "pp5patel@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "asic.chen@mail.utoronto.ca",
 	"first_name": "Asic",
 	"last_name": "Chen",
-	"status": "Pending"
+	"email": "asic.chen@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "maheshn@mcmaster.ca",
 	"first_name": "Nareshkumar",
 	"last_name": "Maheshkumar",
-	"status": "Pending"
+	"email": "maheshn@mcmaster.ca",
+	"status": "Y"
 }, {
-	"email": "christinekc.cheng@gmail.com",
 	"first_name": "Christine (King Chong)",
 	"last_name": "Cheng",
-	"status": "Pending"
+	"email": "christinekc.cheng@gmail.com",
+	"status": "Y"
 }, {
-	"email": "marwaybs@mcmaster.ca",
 	"first_name": "Bhaag",
 	"last_name": "Marway",
-	"status": "Pending"
+	"email": "marwaybs@mcmaster.ca",
+	"status": "P"
 }, {
-	"email": "ateeqs1@mcmaster.ca",
 	"first_name": "Sameen",
 	"last_name": "Ateeq",
-	"status": "Pending"
+	"email": "ateeqs1@mcmaster.ca",
+	"status": "Y"
 }, {
-	"email": "daniel.kehyaya@mail.utoronto.ca",
 	"first_name": "Daniel",
 	"last_name": "Kehyayan",
-	"status": "Pending"
+	"email": "daniel.kehyaya@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "kalindu.decosta@mail.utoronto.ca",
 	"first_name": "Kalindu",
 	"last_name": "De Costa",
-	"status": "Pending"
+	"email": "kalindu.decosta@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "david.yue@mail.utoronto.ca",
 	"first_name": "David",
 	"last_name": "Yue",
-	"status": "Pending"
+	"email": "david.yue@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "safroze20@schulich.yorku.ca",
 	"first_name": "shahzeb",
 	"last_name": "afroze",
-	"status": "Pending"
+	"email": "safroze20@schulich.yorku.ca",
+	"status": "P"
 }, {
-	"email": "garyshincc@gmail.com",
 	"first_name": "Gary",
 	"last_name": "Shin",
-	"status": "Pending"
+	"email": "garyshincc@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sarah.maccallum@ryerson.ca",
 	"first_name": "Sarah",
 	"last_name": "MacCallum",
-	"status": "Pending"
+	"email": "sarah.maccallum@ryerson.ca",
+	"status": "P"
 }, {
-	"email": "jana.manoharan@mail.utoronto.ca",
 	"first_name": "Janarthanan",
 	"last_name": "Manoharan",
-	"status": "Pending"
+	"email": "jana.manoharan@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "adrianzaia998@gmail.com",
 	"first_name": "Adrian",
 	"last_name": "Zaia",
-	"status": "Pending"
+	"email": "adrianzaia998@gmail.com",
+	"status": "P"
 }, {
-	"email": "sakshaat.choyikandi@mail.utoronto.ca",
 	"first_name": "Sakshaat",
 	"last_name": "Choyikandi",
-	"status": "Pending"
+	"email": "sakshaat.choyikandi@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "mrshoaibmshaikh@gmail.com",
 	"first_name": "Shoaib",
 	"last_name": "Shaikh",
-	"status": "Pending"
+	"email": "mrshoaibmshaikh@gmail.com",
+	"status": "P"
 }, {
-	"email": "seeamislam25@gmail.com",
 	"first_name": "Seeam",
 	"last_name": "Islam",
-	"status": "Pending"
+	"email": "seeamislam25@gmail.com",
+	"status": "P"
 }, {
-	"email": "a.harsimran@hotmail.com",
 	"first_name": "Harsimran",
 	"last_name": "Aneja",
-	"status": "Pending"
+	"email": "a.harsimran@hotmail.com",
+	"status": "P"
 }, {
-	"email": "rushi.gandhi@hotmail.com",
 	"first_name": "Rushi",
 	"last_name": "Gandhi",
-	"status": "Pending"
+	"email": "rushi.gandhi@hotmail.com",
+	"status": "P"
 }, {
-	"email": "shelumiel.mordido@mail.utoronto.ca",
 	"first_name": "Shelumiel",
 	"last_name": "Mordido",
-	"status": "Pending"
+	"email": "shelumiel.mordido@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "henry-hoang@hotmail.com",
 	"first_name": "Henry",
 	"last_name": "Hoang",
-	"status": "Pending"
+	"email": "henry-hoang@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "yashsanghavi98@gmail.com",
 	"first_name": "Yash",
 	"last_name": "Sanghavi ",
-	"status": "Pending"
+	"email": "yashsanghavi98@gmail.com",
+	"status": "P"
 }, {
-	"email": "vinitsoni357@gmail.com",
 	"first_name": "Vinit",
 	"last_name": "Soni",
-	"status": "Pending"
+	"email": "vinitsoni357@gmail.com",
+	"status": "Y"
 }, {
-	"email": "sina.rezaeizadeh@mail.utoronto.ca",
 	"first_name": "Sina",
 	"last_name": "Rezaeizadeh",
-	"status": "Pending"
+	"email": "sina.rezaeizadeh@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "sistillianthony@gmail.com",
 	"first_name": "Anthony",
 	"last_name": "Sistilli",
-	"status": "Pending"
+	"email": "sistillianthony@gmail.com",
+	"status": "Y"
 }, {
-	"email": "Umark0117@gmail.com",
 	"first_name": "Umar",
 	"last_name": "Khan",
-	"status": "Pending"
+	"email": "Umark0117@gmail.com",
+	"status": "P"
 }, {
-	"email": "jeremy.chinsen@mail.utoronto.ca",
 	"first_name": "Jeremy",
 	"last_name": "Chinsen",
-	"status": "Pending"
+	"email": "jeremy.chinsen@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "cedric.lanchungyang@mail.utoronto.ca",
 	"first_name": "Cedric",
 	"last_name": "Lan Chung Yang",
-	"status": "Pending"
+	"email": "cedric.lanchungyang@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "joshk.kang@mail.utoronto.ca",
 	"first_name": "Josh",
 	"last_name": "Kang",
-	"status": "Pending"
+	"email": "joshk.kang@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "brentmaxwellmarks@gmail.com",
 	"first_name": "Brent",
 	"last_name": "Marks",
-	"status": "Pending"
+	"email": "brentmaxwellmarks@gmail.com",
+	"status": "P"
 }, {
-	"email": "dmarchese@ryerson.ca",
 	"first_name": "Domenic",
 	"last_name": "Marchese",
-	"status": "Pending"
+	"email": "dmarchese@ryerson.ca",
+	"status": "P"
 }, {
-	"email": "chenh43@mcmaster.ca",
 	"first_name": "Hui ",
 	"last_name": "Chen",
-	"status": "Pending"
+	"email": "chenh43@mcmaster.ca",
+	"status": "Y"
 }, {
-	"email": "peterl732@hotmail.com",
 	"first_name": "Peter",
 	"last_name": "Ling",
-	"status": "Pending"
+	"email": "peterl732@hotmail.com",
+	"status": "P"
 }, {
-	"email": "jborrome@edu.uwaterloo.ca",
 	"first_name": "Justin",
 	"last_name": "Borromeo",
-	"status": "Pending"
+	"email": "jborrome@edu.uwaterloo.ca",
+	"status": "P"
 }, {
-	"email": "czaremba@edu.uwaterloo.ca",
 	"first_name": "Christopher",
 	"last_name": "Zaremba",
-	"status": "Pending"
+	"email": "czaremba@edu.uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "tiger.dong206@hotmail.com",
 	"first_name": "Tiger (Xiao Min)",
 	"last_name": "Dong",
-	"status": "Pending"
+	"email": "tiger.dong206@hotmail.com",
+	"status": "P"
 }, {
-	"email": "tl2cheng@edu.uwaterloo.ca",
 	"first_name": "Tate",
 	"last_name": "Cheng",
-	"status": "Pending"
+	"email": "tl2cheng@edu.uwaterloo.ca",
+	"status": ""
 }, {
-	"email": "aghio@live.com",
 	"first_name": "Albert",
 	"last_name": "Ghionea",
-	"status": "Pending"
+	"email": "aghio@live.com",
+	"status": "Y"
 }, {
-	"email": "mitul.shah@ryerson.ca",
 	"first_name": "Mitul",
 	"last_name": "Shah",
-	"status": "Pending"
+	"email": "mitul.shah@ryerson.ca",
+	"status": "Y"
 }, {
-	"email": "carl.louis.marquez@gmail.com",
 	"first_name": "Carl ",
 	"last_name": "Marquez",
-	"status": "Pending"
+	"email": "carl.louis.marquez@gmail.com",
+	"status": "P"
 }, {
-	"email": "jord.feng@mail.utoronto.ca",
 	"first_name": "Jordan",
 	"last_name": "Feng",
-	"status": "Pending"
+	"email": "jord.feng@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "hamza1996@gmail.com",
 	"first_name": "Hamza",
 	"last_name": "Ali",
-	"status": "Pending"
+	"email": "hamza1996@gmail.com",
+	"status": "P"
 }, {
-	"email": "jesse.cordeiro@mail.utoronto.ca",
 	"first_name": "Jesse",
 	"last_name": "Cordeiro",
-	"status": "Pending"
+	"email": "jesse.cordeiro@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "tigerhe7@gmail.com",
 	"first_name": "Tiger",
 	"last_name": "He",
-	"status": "Pending"
+	"email": "tigerhe7@gmail.com",
+	"status": "Y"
 }, {
-	"email": "lucas.lunasouza@mail.utoronto.ca",
 	"first_name": "Lucas",
 	"last_name": "Luna Souza",
-	"status": "Pending"
+	"email": "lucas.lunasouza@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "vkhaitan@uwaterloo.ca",
 	"first_name": "Vaibhav",
 	"last_name": "Khaitan",
-	"status": "Pending"
+	"email": "vkhaitan@uwaterloo.ca",
+	"status": "P"
 }, {
-	"email": "siddhant99.jain@hotmail.com",
 	"first_name": "Siddhant",
 	"last_name": "Jain",
-	"status": "Pending"
+	"email": "siddhant99.jain@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "Edmond.umolu@mail.utoronto.ca",
 	"first_name": "Edmond",
 	"last_name": "Umolu",
-	"status": "Pending"
+	"email": "Edmond.umolu@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "beston.leung@mail.utoronto.ca",
 	"first_name": "Beston",
 	"last_name": "Leung",
-	"status": "Pending"
+	"email": "beston.leung@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "chase@chasehaddleton.com",
 	"first_name": "Chase",
 	"last_name": "Haddleton",
-	"status": "Pending"
+	"email": "chase@chasehaddleton.com",
+	"status": "Y"
 }, {
-	"email": "jatinrampal@hotmail.com",
 	"first_name": "Jatin",
 	"last_name": "Rampal",
-	"status": "Pending"
+	"email": "jatinrampal@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "shrey.parikh@mail.utoronto.ca",
 	"first_name": "Shrey",
 	"last_name": "Parikh",
-	"status": "Pending"
+	"email": "shrey.parikh@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "r_plaha@live.ca",
 	"first_name": "Rahul",
 	"last_name": "Plaha",
-	"status": "Pending"
+	"email": "r_plaha@live.ca",
+	"status": "Y"
 }, {
-	"email": "evan.wong19980302@gmail.com",
 	"first_name": "Zhijian",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "evan.wong19980302@gmail.com",
+	"status": "Y"
 }, {
-	"email": "bjfong@uwaterloo.ca",
 	"first_name": "Brandon",
 	"last_name": "Fong",
-	"status": "Pending"
+	"email": "bjfong@uwaterloo.ca",
+	"status": "Y"
 }, {
-	"email": "abithan@hotmail.com",
 	"first_name": "Abithan",
 	"last_name": "Kumarasamy",
-	"status": "Pending"
+	"email": "abithan@hotmail.com",
+	"status": "Y"
 }, {
-	"email": "jackie.anj.liu@gmail.com",
 	"first_name": "Jackie",
 	"last_name": "Liu",
-	"status": "Pending"
+	"email": "jackie.anj.liu@gmail.com",
+	"status": "P"
 }, {
-	"email": "cd.chu@mail.utoronto.ca",
 	"first_name": "Christopher",
 	"last_name": "Chu",
-	"status": "Pending"
+	"email": "cd.chu@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "Mohammed.alam1@uoit.net",
 	"first_name": "Mohammed",
 	"last_name": "Alam",
-	"status": "Pending"
+	"email": "Mohammed.alam1@uoit.net",
+	"status": "P"
 }, {
-	"email": "patrick.y.lee@duke.edu",
 	"first_name": "Patrick",
 	"last_name": "Lee",
-	"status": "Pending"
+	"email": "patrick.y.lee@duke.edu",
+	"status": "Y"
 }, {
-	"email": "brianandrew.lam@mail.utoronto.ca",
 	"first_name": "Brian",
 	"last_name": "Lam",
-	"status": "Pending"
+	"email": "brianandrew.lam@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "derek.frempong@mail.utoronto.ca",
 	"first_name": "Derek",
 	"last_name": "Frempong",
-	"status": "Pending"
+	"email": "derek.frempong@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "wendy@deca.ca",
 	"first_name": "Wendy",
 	"last_name": "Wei",
-	"status": "Pending"
+	"email": "wendy@deca.ca",
+	"status": "P"
 }, {
-	"email": "tran.james2001@gmail.com",
 	"first_name": "James",
 	"last_name": "Tran",
-	"status": "Pending"
+	"email": "tran.james2001@gmail.com",
+	"status": "P"
 }, {
-	"email": "avidave97@gmail.com",
 	"first_name": "Avi",
 	"last_name": "Dave",
-	"status": "Pending"
+	"email": "avidave97@gmail.com",
+	"status": "P"
 }, {
-	"email": "jonw.wang@mail.utoronto.ca",
 	"first_name": "Jonathan",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "jonw.wang@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "vivek.george@ryerson.ca",
 	"first_name": "Vivek",
 	"last_name": "George",
-	"status": "Pending"
+	"email": "vivek.george@ryerson.ca",
+	"status": "Y"
 }, {
-	"email": "mary.zhu@mail.utoronto.ca",
 	"first_name": "Mary",
 	"last_name": "Zhu",
-	"status": "Pending"
+	"email": "mary.zhu@mail.utoronto.ca",
+	"status": "Y"
 }, {
-	"email": "me@tbrindus.ca",
 	"first_name": "Tudor",
 	"last_name": "Brindus",
-	"status": "Pending"
+	"email": "me@tbrindus.ca",
+	"status": "P"
 }, {
-	"email": "justin.yuan@mail.utoronto.ca",
 	"first_name": "Justin",
 	"last_name": "Yuan",
-	"status": "Pending"
+	"email": "justin.yuan@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "Talon_So@Hotmail.com",
 	"first_name": "Talon",
 	"last_name": "So",
-	"status": "Pending"
+	"email": "Talon_So@Hotmail.com",
+	"status": "P"
 }, {
-	"email": "ianw3214@gmail.com",
 	"first_name": "Yen-Chun",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "ianw3214@gmail.com",
+	"status": "Y"
 }, {
-	"email": "jeffl.li@mail.utoronto.ca",
 	"first_name": "Jeff",
 	"last_name": "Li",
-	"status": "Pending"
+	"email": "jeffl.li@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "lerajk44@gmail.com",
 	"first_name": "Lee",
 	"last_name": "Raj",
-	"status": "Pending"
+	"email": "lerajk44@gmail.com",
+	"status": "P"
 }, {
-	"email": "sakeeb.hossain@mail.utoronto.ca",
 	"first_name": "Ahnaf",
 	"last_name": "Hossain",
-	"status": "Pending"
+	"email": "sakeeb.hossain@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "bill.ww17@gmail.com",
 	"first_name": "William",
 	"last_name": "Wong",
-	"status": "Pending"
+	"email": "bill.ww17@gmail.com",
+	"status": "Y"
 }, {
-	"email": "casey.smith13@yahoo.ca",
 	"first_name": "Casey",
 	"last_name": "Smith",
-	"status": "Pending"
+	"email": "casey.smith13@yahoo.ca",
+	"status": "Y"
 }, {
-	"email": "june.wi@ryerson.ca",
 	"first_name": "June",
 	"last_name": "Wi",
-	"status": "Pending"
+	"email": "june.wi@ryerson.ca",
+	"status": "P"
 }, {
-	"email": "brian.lacdoo@hotmail.com",
 	"first_name": "Brian",
 	"last_name": "Lacdo-o",
-	"status": "Pending"
+	"email": "brian.lacdoo@hotmail.com",
+	"status": "P"
 }, {
-	"email": "j.vethursan@gmail.com",
 	"first_name": "Vethursan",
 	"last_name": "Jegatheeswaran",
-	"status": "Pending"
+	"email": "j.vethursan@gmail.com",
+	"status": "P"
 }, {
-	"email": "sam.calvin.tse@gmail.com",
 	"first_name": "Calvin",
 	"last_name": "Tse",
-	"status": "Pending"
+	"email": "sam.calvin.tse@gmail.com",
+	"status": "P"
 }, {
-	"email": "erickimkw@gmail.com",
 	"first_name": "Eric",
 	"last_name": "Kim",
-	"status": "Pending"
+	"email": "erickimkw@gmail.com",
+	"status": "P"
 }, {
-	"email": "atyagi20@schulich.yorku.ca",
 	"first_name": "Anirudh",
 	"last_name": "Tyagi",
-	"status": "Pending"
+	"email": "atyagi20@schulich.yorku.ca",
+	"status": "P"
 }, {
-	"email": "aelshayeb17@schulich.yorku.ca",
 	"first_name": "Ali",
 	"last_name": "El-Shayeb",
-	"status": "Pending"
+	"email": "aelshayeb17@schulich.yorku.ca",
+	"status": "P"
 }, {
-	"email": "anuranchan@gmail.com",
 	"first_name": "Anurudran",
 	"last_name": "Chandrasekaram",
-	"status": "Pending"
+	"email": "anuranchan@gmail.com",
+	"status": "P"
 }, {
-	"email": "tong.wupersonal@gmail.com",
 	"first_name": "Tong",
 	"last_name": "Wu",
-	"status": "Pending"
+	"email": "tong.wupersonal@gmail.com",
+	"status": "P"
 }, {
-	"email": "ch4wang@uwaterloo.ca",
 	"first_name": "Toby",
 	"last_name": "Wang",
-	"status": "Pending"
+	"email": "ch4wang@uwaterloo.ca",
+	"status": "P"
 }, {
-	"email": "jason.piao@mail.utoronto.ca",
 	"first_name": "Jason",
 	"last_name": "Piao",
-	"status": "Pending"
+	"email": "jason.piao@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "jacob.erickson@mail.utoronto.ca",
 	"first_name": "Jacob",
 	"last_name": "Erickson",
-	"status": "Pending"
+	"email": "jacob.erickson@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "gupt1820@mylaurier.ca",
 	"first_name": "Shiv",
 	"last_name": "Gupta",
-	"status": "Pending"
+	"email": "gupt1820@mylaurier.ca",
+	"status": "P"
 }, {
-	"email": "patela14@mcmaster.ca",
 	"first_name": "Adit",
 	"last_name": "Patel",
-	"status": "Pending"
+	"email": "patela14@mcmaster.ca",
+	"status": "P"
 }, {
-	"email": "ztcgy11@gmail.com",
 	"first_name": "Zakary",
 	"last_name": "Georgis-Yap",
-	"status": "Pending"
+	"email": "ztcgy11@gmail.com",
+	"status": "P"
 }, {
-	"email": "kkwok98@hotmail.com",
 	"first_name": "Karen",
 	"last_name": "Kwok",
-	"status": "Pending"
+	"email": "kkwok98@hotmail.com",
+	"status": "P"
 }, {
-	"email": "rashna@ryerson.ca",
 	"first_name": "Rubaiyat",
 	"last_name": "Ashna",
-	"status": "Pending"
+	"email": "rashna@ryerson.ca",
+	"status": "P"
 }, {
-	"email": "zack.nathan@ucc.on.ca",
 	"first_name": "Zack",
 	"last_name": "Nathan",
-	"status": "Pending"
+	"email": "zack.nathan@ucc.on.ca",
+	"status": "P"
 }, {
-	"email": "umar.nawed@mail.utoronto.ca",
 	"first_name": "Umar",
 	"last_name": "Nawed",
-	"status": "Pending"
+	"email": "umar.nawed@mail.utoronto.ca",
+	"status": "P"
 }, {
-	"email": "tvinoshan@hotmail.com",
 	"first_name": "Vinoshan",
 	"last_name": "Tharmalenkam",
-	"status": "Pending"
+	"email": "tvinoshan@hotmail.com",
+	"status": "P"
 }, {
-	"email": "siunami.matt@gmail.com",
 	"first_name": "Matthew",
 	"last_name": "Siu",
-	"status": "Pending"
+	"email": "siunami.matt@gmail.com",
+	"status": "Y"
 }, {
-	"email": "eojohn@packer.edu",
-	"first_name": "Eon",
-	"last_name": "John",
-	"status": "Pending"
+	"first_name": "Mohammad Tareq Bin",
+	"last_name": "Anwar",
+	"email": "trqnwr@gmail.com",
+	"status": "P"
 }, {
-	"email": "ralphpal@hotmail.com",
+	"first_name": "Terrence",
+	"last_name": "Hung",
+	"email": "terrence.hung@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Umair",
+	"last_name": "Choudhary",
+	"email": "u2choudh@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Mahad ",
+	"last_name": "Khokhar",
+	"email": "khokhar.mahad@hotmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Shagun",
+	"last_name": "Kazan",
+	"email": "shagun26@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Stephen",
+	"last_name": "Low",
+	"email": "stephenlow1_432@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Zain",
+	"last_name": "Amir",
+	"email": "zain.amir@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "`Sukhpal",
+	"last_name": "Saini",
+	"email": "sunnyashiin@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Harnoor",
+	"last_name": "Singh",
+	"email": "hnoormanan@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Rahul",
+	"last_name": "Dominic",
+	"email": "rahulbdominic@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Zain",
+	"last_name": "Kabani",
+	"email": "zain.kabani97@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Elaine",
+	"last_name": "Wu",
+	"email": "elaine.wu.ew@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "J.R.",
+	"last_name": "Maingat",
+	"email": "jr.maingat@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Jennice",
+	"last_name": "Colaco",
+	"email": "jennice.colaco@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Razi",
+	"last_name": "Syed",
+	"email": "syed.raziulhaque@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Jerry",
+	"last_name": "Liu",
+	"email": "3jerryliu@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Matheesan",
+	"last_name": "Manokaran",
+	"email": "matheesan.manokaran@ryerson.ca",
+	"status": "Y"
+}, {
+	"first_name": "Derrick",
+	"last_name": "Liang",
+	"email": "cubesnail@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Tony",
+	"last_name": "Wu",
+	"email": "wu.tony1994@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Ayaan",
+	"last_name": "Chaudhry",
+	"email": "ayaan.chaudhry@cs.toronto.edu",
+	"status": "Y"
+}, {
+	"first_name": "Omar",
+	"last_name": "Madkour",
+	"email": "omarmadkour@live.com",
+	"status": "P"
+}, {
+	"first_name": "Keith",
+	"last_name": "Cheung",
+	"email": "k32cheun@edu.uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Jacob",
+	"last_name": "Solis",
+	"email": "jacob.solis@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Daniel Thomas",
+	"last_name": "Horga",
+	"email": "thomas.horga@mail.utoronto.ca",
+	"status": "Y"
+}, {
 	"first_name": "Ralph",
-	"last_name": "Mammari",
-	"status": "Pending"
+	"last_name": "Samson Lal",
+	"email": "roy.samson13@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Daniel",
+	"last_name": "Chou",
+	"email": "danielbodan.chou@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Aakarsh",
+	"last_name": "Madhavan",
+	"email": "a3madhav@edu.uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Sherry",
+	"last_name": "Ma",
+	"email": "sherry97131@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Khansa",
+	"last_name": "Kiasatina",
+	"email": "occhaa@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Salman",
+	"last_name": "Sharif`",
+	"email": "salman.sharif@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Jack",
+	"last_name": "Yiu",
+	"email": "jackinyiu@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Mohit",
+	"last_name": "Singh",
+	"email": "mohit.singh@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Maksym",
+	"last_name": "Pikhteryev",
+	"email": "maksym.p@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Khalid",
+	"last_name": "Othman",
+	"email": "khothman98@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Dmitry",
+	"last_name": "Ten",
+	"email": "candalistic@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Eric",
+	"last_name": "Papagiannis",
+	"email": "eric.papagiannis@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Stephen",
+	"last_name": "Liu",
+	"email": "sb.liu@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Youyee",
+	"last_name": "Chen",
+	"email": "youyee.chen@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Nafees",
+	"last_name": "Rawji",
+	"email": "nafees.rawji@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Aman",
+	"last_name": "Arora",
+	"email": "aman23091998@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Shoujun",
+	"last_name": "Feng",
+	"email": "shoujun.feng@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Muhammad",
+	"last_name": "Obaidullah",
+	"email": "mobaidullah@ryerson.ca",
+	"status": "P"
+}, {
+	"first_name": "Jash",
+	"last_name": "Pandya",
+	"email": "jbpandya@uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Dhairya",
+	"last_name": "Dave",
+	"email": "dhairya2136@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Ceiline",
+	"last_name": "Zhang",
+	"email": "ceiline@icloud.com",
+	"status": "P"
+}, {
+	"first_name": "samuel",
+	"last_name": "catherasoo",
+	"email": "sam111jc@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Colin",
+	"last_name": "Marsch",
+	"email": "cjpmarsc@edu.uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Aaruran",
+	"last_name": "Elamurugaiyan",
+	"email": "aarurane@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Kamran",
+	"last_name": "Shahid",
+	"email": "kamran.shahid@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Monica",
+	"last_name": "Iyer",
+	"email": "monicaiyer101@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Mike",
+	"last_name": "Vu",
+	"email": "mikevu123@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Alana",
+	"last_name": "Cristante",
+	"email": "agcrista@uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Shehzad Noor Taus ",
+	"last_name": "Priyo",
+	"email": "taus@alumni.ubc.ca",
+	"status": "Y"
+}, {
+	"first_name": "Simon",
+	"last_name": "Zhang",
+	"email": "simon.zhang@queensu.ca",
+	"status": "Y"
+}, {
+	"first_name": "Stefan",
+	"last_name": "Urosevic",
+	"email": "stefanuros@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Alex",
+	"last_name": "Luu",
+	"email": "alex.luu@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Jotham",
+	"last_name": "Chow",
+	"email": "jotham.chow@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Tian",
+	"last_name": "Xia",
+	"email": "ten.xia@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Hayden",
+	"last_name": "Johnson",
+	"email": "hayden.johnson@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Thomas",
+	"last_name": "Young-Audet",
+	"email": "thomas.young.audet@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Usman",
+	"last_name": "Khan",
+	"email": "usman.ayub.khan@ryerson.ca",
+	"status": "Y"
+}, {
+	"first_name": "Parv",
+	"last_name": "Mital",
+	"email": "12pm30@queensu.ca",
+	"status": "Y"
+}, {
+	"first_name": "Daniel",
+	"last_name": "Wu",
+	"email": "daniel_kt_wu@msn.com",
+	"status": "P"
+}, {
+	"first_name": "Eric",
+	"last_name": "Lin",
+	"email": "Ericlin505@hotmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Calvin",
+	"last_name": "Luong",
+	"email": "calvin_l04@hotmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Tyler",
+	"last_name": "Ishii",
+	"email": "tyler.ishii@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Mehwar",
+	"last_name": "Raza",
+	"email": "mehwar@mehwarraza.com",
+	"status": "P"
+}, {
+	"first_name": "William",
+	"last_name": "Sinclair",
+	"email": "w.sinclair@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Samantha",
+	"last_name": "Lauby",
+	"email": "samantha.lauby@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Korosh",
+	"last_name": "Ahangar",
+	"email": "korosh.ahangar@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Ahmad",
+	"last_name": "Shanqiti",
+	"email": "ahmad.shanqiti@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Yixuan",
+	"last_name": "Wang",
+	"email": "wangyixuan98@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Lars",
+	"last_name": "Nolden",
+	"email": "larsnolden@web.de",
+	"status": "P"
+}, {
+	"first_name": "David",
+	"last_name": "Moore",
+	"email": "moored1@mcmaster.ca",
+	"status": "Y"
+}, {
+	"first_name": "Thomas",
+	"last_name": "Alvares",
+	"email": "alvarest@mcmaster.ca",
+	"status": "Y"
+}, {
+	"first_name": "Rashid",
+	"last_name": "Zafar",
+	"email": "zafarr1@mcmaster.ca",
+	"status": "Y"
+}, {
+	"first_name": "Katherine",
+	"last_name": "Huang",
+	"email": "katherine.huang@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Santanu",
+	"last_name": "Sarker",
+	"email": "sarkersantanu@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Bryan",
+	"last_name": "Kristiono",
+	"email": "bmkristi@edu.uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Pamela",
+	"last_name": "Hammer",
+	"email": "pamela.hammer@uoit.net",
+	"status": "P"
+}, {
+	"first_name": "Joshua",
+	"last_name": "Allum",
+	"email": "joshuatallum@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Winston",
+	"last_name": "Chen",
+	"email": "wx.chen@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Javed",
+	"last_name": "Nissar",
+	"email": "javednissar@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Tian-Yuan",
+	"last_name": "Zhao",
+	"email": "tianyuan.zhao@utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Marwan",
+	"last_name": "Alani",
+	"email": "marwan@alani.ca",
+	"status": "P"
+}, {
+	"first_name": "Hamza",
+	"last_name": "Arab",
+	"email": "hamzaarab@cmail.carleton.ca",
+	"status": "P"
+}, {
+	"first_name": "Richard",
+	"last_name": "Wei",
+	"email": "therichardwei@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Cloris",
+	"last_name": "tang",
+	"email": "cloristang97@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Xiang",
+	"last_name": "Li",
+	"email": "x723li@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Priya",
+	"last_name": "Bathija",
+	"email": "priya.bahtija@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Richard",
+	"last_name": "Kang",
+	"email": "richrichard2002@yahoo.ca",
+	"status": "P"
+}, {
+	"first_name": "Clive",
+	"last_name": "Chan",
+	"email": "cc@clive.io",
+	"status": "P"
+}, {
+	"first_name": "Colin",
+	"last_name": "Daly",
+	"email": "cjdaly@edu.uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Aditya ",
+	"last_name": "Parab",
+	"email": "adparab97@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Manan",
+	"last_name": "Patel",
+	"email": "manann.patel@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "ashley",
+	"last_name": "michalski",
+	"email": "cupcakeawesome1@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Sophy",
+	"last_name": "Huang",
+	"email": "sophy.huang@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Kirisanth",
+	"last_name": "Ganeshamoorthy",
+	"email": "k.ganeshamoorthy@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Daniel",
+	"last_name": "Persaud",
+	"email": "dev.persaud@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Brandon",
+	"last_name": "Mowat",
+	"email": "brandonmowat11@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Brendan",
+	"last_name": "Zhang",
+	"email": "brendan.zhang@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Priscilla",
+	"last_name": "Chan",
+	"email": "priscilla.e.chan@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Mohamed",
+	"last_name": "Mohamed",
+	"email": "mohamedahmed.mohamed@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Ramy",
+	"last_name": "Esteero",
+	"email": "ramy.esteero@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Anthony",
+	"last_name": "Tam",
+	"email": "ant.tam@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "lin",
+	"last_name": "peng",
+	"email": "linpeng06@knights.ucf.edu",
+	"status": "Y"
+}, {
+	"first_name": "Kirill",
+	"last_name": "Lossev",
+	"email": "kirill.lossev@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Abdulwahaab",
+	"last_name": "Ahmed",
+	"email": "aahme163@uottawa.ca",
+	"status": "Y"
+}, {
+	"first_name": "Anirudh",
+	"last_name": "Ravichandran",
+	"email": "scienceani@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "JunGwon",
+	"last_name": "Kim",
+	"email": "kwnsrnjs12@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Sangmoon (Simon)",
+	"last_name": "Hwang",
+	"email": "ghkdtkdans@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Ahmad",
+	"last_name": "Al Saidi",
+	"email": "ahmad.alsaidi@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Thao",
+	"last_name": "Tran",
+	"email": "6.28.tran@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Thao",
+	"last_name": "Tran",
+	"email": "6.28.tran@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Alvin",
+	"last_name": "Tang",
+	"email": "alvin.tang@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Raymond",
+	"last_name": "Kim",
+	"email": "raymond.d.kim@outlook.com",
+	"status": "Y"
+}, {
+	"first_name": "Jonathan",
+	"last_name": "Pilault",
+	"email": "Jonathan.Pilault@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Dongoug",
+	"last_name": "Kim",
+	"email": "dougouk@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Tahsim",
+	"last_name": "Ahmed",
+	"email": "tahmed18@schulich.yorku.ca",
+	"status": "Y"
+}, {
+	"first_name": "Gustav",
+	"last_name": "Solis",
+	"email": "gustav@guso.io",
+	"status": "Y"
+}, {
+	"first_name": "David",
+	"last_name": "Yang",
+	"email": "d65yang@uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Tian Hao (Jim)",
+	"last_name": "Yang",
+	"email": "thyang@edu.uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Hamza",
+	"last_name": "Arab",
+	"email": "hamzaarab@cmail.carleton.ca",
+	"status": "Y"
+}, {
+	"first_name": "Tanay",
+	"last_name": "Parikh",
+	"email": "tvparikh@uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Keegan",
+	"last_name": "Poon",
+	"email": "poonkeegan@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Nagee",
+	"last_name": "Elghassein",
+	"email": "nagee.elghassein@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Rikin",
+	"last_name": "Katyal",
+	"email": "me@sirvar.com",
+	"status": "P"
+}, {
+	"first_name": "Tash-had",
+	"last_name": "Saqif",
+	"email": "me@tash-had.com",
+	"status": "Y"
+}, {
+	"first_name": "Pedja",
+	"last_name": "Ristic",
+	"email": "pedja.ristic@outlook.com",
+	"status": "Y"
+}, {
+	"first_name": "Md",
+	"last_name": "Islam",
+	"email": "md.islam007@rutgers.edu",
+	"status": "P"
+}, {
+	"first_name": "Alexander",
+	"last_name": "Drouillard",
+	"email": "alex.drouillard1@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Shivanouyen ",
+	"last_name": "Yoganathan",
+	"email": "yoganathan.shiv@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Raphael",
+	"last_name": "Rouvinov",
+	"email": "raphaelrouvinov@college.harvard.edu",
+	"status": "Y"
+}, {
+	"first_name": "Kent",
+	"last_name": "Tsuenchy",
+	"email": "ktsuench@ryerson.ca",
+	"status": "Y"
+}, {
+	"first_name": "Jasmine",
+	"last_name": "Campbell",
+	"email": "jcamp254@uwo.ca",
+	"status": "Y"
+}, {
+	"first_name": "Haolin",
+	"last_name": "Huang",
+	"email": "hhldecade@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Ragulan",
+	"last_name": "Rajenthiran",
+	"email": "ragulan550@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Jessica",
+	"last_name": "Alfante",
+	"email": "alfantejessica@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Gregory",
+	"last_name": "Desrosiers",
+	"email": "gdesrosi@edu.uwaterloo.ca",
+	"status": "Y"
+}, {
+	"first_name": "George ",
+	"last_name": "Li",
+	"email": "jinglinli.li@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Arielle",
+	"last_name": "Evans",
+	"email": "ariellelevans@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Junchao",
+	"last_name": "Chen",
+	"email": "michael1216.chen@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Andres",
+	"last_name": "Garcia Rodriguez",
+	"email": "andresgr2094@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Joe",
+	"last_name": "Li",
+	"email": "li.kh.joe@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Rakin",
+	"last_name": "Uddin",
+	"email": "rakin.uddin@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "KRUTI ",
+	"last_name": "NAIK",
+	"email": "krutinaik01@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Subhan",
+	"last_name": "Nadeem",
+	"email": "subhan97@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Henry",
+	"last_name": "Wang",
+	"email": "h397wang@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Carol",
+	"last_name": "Ng",
+	"email": "ng.km.carol@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Peter ",
+	"last_name": "Chen",
+	"email": "kelvinchen.14@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Suparit",
+	"last_name": "Sunpongsri",
+	"email": "SS3974@drexel.edu",
+	"status": "Y"
+}, {
+	"first_name": "Edouard",
+	"last_name": "Magharian",
+	"email": "edouard.magharian@utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Jaydon",
+	"last_name": "Lau",
+	"email": "jehlau@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Tushar",
+	"last_name": "Gupta",
+	"email": "gupta.t@husky.neu.edu",
+	"status": "P"
+}, {
+	"first_name": "rouzbeh",
+	"last_name": "shirvani",
+	"email": "rouzbeh.asghari@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Justin",
+	"last_name": "Paulin",
+	"email": "hello@justinpaulin.com",
+	"status": "P"
+}, {
+	"first_name": "Munaz",
+	"last_name": "Rahman",
+	"email": "munaz.rahman@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Ruslan",
+	"last_name": "Nikolaev",
+	"email": "nikolaevra@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Lin",
+	"last_name": "Peng",
+	"email": "linpeng06@knights.ucf.edu",
+	"status": "Y"
+}, {
+	"first_name": "Kristen",
+	"last_name": "Kwong",
+	"email": "kristenkwong.wy@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Karina",
+	"last_name": "Koola",
+	"email": "karinakoola@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Faisal",
+	"last_name": "Hemani",
+	"email": "faisal.hemani@ryerson.ca",
+	"status": "P"
+}, {
+	"first_name": "Henry",
+	"last_name": "Du",
+	"email": "h7du@uwaterloo.ca",
+	"status": "P"
+}, {
+	"first_name": "Julian",
+	"last_name": "Chu",
+	"email": "chux9490@mylaurier.ca",
+	"status": "P"
+}, {
+	"first_name": "Novej",
+	"last_name": "Panjawani",
+	"email": "novej@my.yorku.ca",
+	"status": "P"
+}, {
+	"first_name": "John",
+	"last_name": "Ma",
+	"email": "jiama843@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Fondson",
+	"last_name": "Tran",
+	"email": "fondsont@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Sheraz",
+	"last_name": "Tariq",
+	"email": "sheraztariq@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Hisham",
+	"last_name": "Hawara",
+	"email": "hisham.hawara@mail.mcgill.ca",
+	"status": "P"
+}, {
+	"first_name": "Jonathan",
+	"last_name": "Tsang",
+	"email": "jtsang109@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Charlie",
+	"last_name": "Zhang",
+	"email": "Charlizcy.zhang@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Kenneth",
+	"last_name": "Ma",
+	"email": "ken@frrand.com",
+	"status": "P"
+}, {
+	"first_name": "Oluwatomilayo",
+	"last_name": "Adegbite",
+	"email": "tomi.adegbite11@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Christopher",
+	"last_name": "Wang",
+	"email": "ChristopherWang@cmail.carleton.ca",
+	"status": "P"
+}, {
+	"first_name": "David",
+	"last_name": "Odidi",
+	"email": "davidodidi@yahoo.co.uk",
+	"status": "P"
+}, {
+	"first_name": "Will (Ming)",
+	"last_name": "Li",
+	"email": "will.liatw@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Shudmanul",
+	"last_name": "Chowdhury",
+	"email": "sh.chowdhury@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "TJ",
+	"last_name": "Yang",
+	"email": "teejayyang35@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Alan",
+	"last_name": "Chen",
+	"email": "alan.chen@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Stephen",
+	"last_name": "Choi",
+	"email": "stephen.fu.hang.choi@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Mengying",
+	"last_name": "Ding",
+	"email": "mytdream@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Jennifer ",
+	"last_name": "Phu",
+	"email": "JenniferPhu24@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Fan",
+	"last_name": "Chen",
+	"email": "fanychen@live.ca",
+	"status": "P"
+}, {
+	"first_name": "Yuan (Nikita)",
+	"last_name": "Zhang",
+	"email": "yuan4@ualberta.ca",
+	"status": "P"
+}, {
+	"first_name": "Abdulhadi ",
+	"last_name": "Mohamed",
+	"email": "abdulahhadi@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Franco",
+	"last_name": "Wong",
+	"email": "wong9661@mylaurier.ca",
+	"status": "Y"
+}, {
+	"first_name": "Nagma",
+	"last_name": "Kapoor",
+	"email": "n5kapoor@ryerson.ca",
+	"status": "P"
+}, {
+	"first_name": "Akshay",
+	"last_name": "Nair",
+	"email": "akshay.nair@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Evgeniya",
+	"last_name": "Vashkevich",
+	"email": "vash8980@mylaurier.ca",
+	"status": "P"
+}, {
+	"first_name": "Aron",
+	"last_name": "Wisuvanathan",
+	"email": "19aron98@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Rahmatullah",
+	"last_name": "Nikyar",
+	"email": "rahmat.nikyar@mail.utoronto.ca",
+	"status": "Y"
+}, {
+	"first_name": "Jerry",
+	"last_name": "Guo",
+	"email": "jerrguo@gmail.ca",
+	"status": "P"
+}, {
+	"first_name": "Sonika",
+	"last_name": "Verma",
+	"email": "sonika334@yahoo.ca",
+	"status": "P"
+}, {
+	"first_name": "Yufei",
+	"last_name": "Cui",
+	"email": "yufei.cui@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Amogh",
+	"last_name": "Malik",
+	"email": "amoghmalik@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Ted",
+	"last_name": "Cooke",
+	"email": "Theodorecooke@trentu.ca",
+	"status": "P"
+}, {
+	"first_name": "Anthony",
+	"last_name": "Tran",
+	"email": "atran94@uwo.ca",
+	"status": "P"
+}, {
+	"first_name": "Syed",
+	"last_name": "Aman",
+	"email": "syednashikaman@live.com",
+	"status": "Y"
+}, {
+	"first_name": "Tyler",
+	"last_name": "Messenger-Lehman",
+	"email": "Tyler@hyperweb.ca",
+	"status": "P"
+}, {
+	"first_name": "Kahlia",
+	"last_name": "Lepple",
+	"email": "kjlepple@hotmail.ca",
+	"status": "P"
+}, {
+	"first_name": "Bobby",
+	"last_name": "Thakkar",
+	"email": "bobbythakkar99@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Neeraj",
+	"last_name": "Aggarwal",
+	"email": "aggarwal.neeraj141@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Ben",
+	"last_name": "Chen",
+	"email": "benchen@ufl.edu",
+	"status": "P"
+}, {
+	"first_name": "Dax",
+	"last_name": "Patel",
+	"email": "dax.patel@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Shichen",
+	"last_name": "Lu",
+	"email": "shichen.lu@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Darwin",
+	"last_name": "Truong",
+	"email": "darwin.truong@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Tony",
+	"last_name": "Kung",
+	"email": "tony.kung@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Ray",
+	"last_name": "Fang",
+	"email": "ray.fang1997@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Keros",
+	"last_name": "Rodrigues",
+	"email": "keros.rodrigues@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Sameed",
+	"last_name": "Sohani",
+	"email": "sam.sohani@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Alex",
+	"last_name": "Wang",
+	"email": "alex.wang.on@hotmail.com",
+	"status": "P"
+}, {
+	"first_name": "Aditya ",
+	"last_name": "Sharma ",
+	"email": "adityauoft.sharma@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Nithursan",
+	"last_name": "Elamuhilan",
+	"email": "nithursan.elamuhilan@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Chris",
+	"last_name": "Kelly",
+	"email": "chrisk647@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Hongyu",
+	"last_name": "Wang",
+	"email": "hongyu.wang@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Thomas",
+	"last_name": "Riley",
+	"email": "mail@thomasriley.ca",
+	"status": "P"
+}, {
+	"first_name": "Ousmane",
+	"last_name": "Amadou",
+	"email": "ousmane.amadou@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Anthuan",
+	"last_name": "Woods",
+	"email": "aewoods@ryerson.ca",
+	"status": "P"
+}, {
+	"first_name": "Menelaos",
+	"last_name": "Kotsollaris",
+	"email": "mkotsollari@gmail.com",
+	"status": "Y"
+}, {
+	"first_name": "Mark",
+	"last_name": "Vaz",
+	"email": "mark.vaz@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Sagar",
+	"last_name": "Patel",
+	"email": "sagu.patel@mail.utoronto.ca",
+	"status": "P"
+}, {
+	"first_name": "Ze Run",
+	"last_name": "Yang",
+	"email": "kody_123@hotmail.com",
+	"status": "Y"
+}, {
+	"first_name": "hairuo",
+	"last_name": "sang",
+	"email": "hairuo.sang@gmail.com",
+	"status": "P"
+}, {
+	"first_name": "Mahsa ",
+	"last_name": "Naserifar ",
+	"email": "mahsa.naserifar@mail.utoronto.ca",
+	"status": "Y"
 }]
