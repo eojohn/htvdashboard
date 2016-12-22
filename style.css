@@ -1203,9 +1203,8 @@ p.status{
 }
 .message_box{
   position: fixed;
-  display: block;
-  bottom: 0;
   display: none;
+  bottom: 0;
   width: 100%;
   max-width: 500px;
   margin: auto;

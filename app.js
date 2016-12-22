@@ -7,11 +7,11 @@
   }  
 };*/
 var options = {"icon":"htv_logo-01.png","container":"root","primaryColor":"#F0D96F", "foregroundColor": "#edf5e1", 
-"responseType":"token","autoclose":true,"focusInput":false,"popup":false,"socialBigButtons":true,"dict":{"title":"Hack The Valley"},"authParams":{"scope":"openid email"},"connections":["facebook","twitter"]};
+"responseType":"token","autoclose":true,"focusInput":false,"popup":false,"socialBigButtons":true,"dict":{"title":"Hack The Valley"},"authParams":{"scope":"openid profile"},"connections":["facebook","twitter"]};
 
   // initialize
-  var lock = new Auth0LockPasswordless('ThjTg1wA4gZADyLKJVkhmSOMpC6gybwA', 'eojohn.auth0.com');
-
+  var lock = new Auth0LockPasswordless('ThjTg1wA4gZADyLKJVkhmSOMpC6gybwA', 'eojohn.auth0.com', 'file:///Users/eojohn/Desktop/qriket.com/index.html', 'token');
+ 
         // Open the lock in Email Code mode with the ability to handle
         // the authentication in page
         lock.emailcode(options, function(err, profile, id_token, state) {
@@ -34,26 +34,31 @@ var options = {"icon":"htv_logo-01.png","container":"root","primaryColor":"#F0D9
    .orderByChild("email")
    .equalTo(profile.name) //profile.name
    .on("child_added", function(snapshot) {
-        var userEmail=snapshot.val().email;
+        var regEmail=snapshot.val().email;
          var userName=snapshot.val().first_name;
+         var userLast=snapshot.val().last_name;
          var userStatus=snapshot.val().status;
          if (userStatus==="P"){
           userStatus="Pending";}
           else if(userStatus==="Y"){
           userStatus="Admitted";
-          $('#notify').show();
+          $('.notify').show();
+           }else if(userStatus==="" && userEmail===regEmail){
+          userStatus="Pending";
+           }else if(userStatus==="D"){
+          userStatus="Denied";
            }else{
           userStatus=snapshot.val().status;
-                  $('#notify').show();
+                  $('.notify').show();
            }
+           
+
                        $('.userName').text(userName);
-                      /* if ( userEmail!== profile.name ){
-                        userStatus="Please wait 5-10 minutes";
-                        $('.status').css('font-size',10 + 'px');
-                       }*/
+                       
+                 
 
                        $('.status').text(userStatus);
-                       if (userName==="Ralph" || "Eon"){
+                       if (regEmail==="ralphpal@hotmail.com" || "eojohn@packer.edu" ){
                      $('.message_box').show();
                      document.onkeydown = function () {
     if (window.event.keyCode == '13') {
@@ -64,12 +69,10 @@ var options = {"icon":"htv_logo-01.png","container":"root","primaryColor":"#F0D9
 }
 
                        }else{
-                      $('.message_box').hide();
-
+                        $('.message_box').hide();
                        }
 
      });
-              $('.userName').text(snapshot.val().name);
 
 function logout(){    // local storage example
             
@@ -81,7 +84,7 @@ function logout(){    // local storage example
         });
       
     
-     $http.get('https://www.hackvalley.com/dashboard/');
+    /*$(http.get('https://www.hackvalley.com/dashboard/'));
 $.ajaxSetup({
   'beforeSend': function(xhr) {
     if (localStorage.getItem('id_token')) {
@@ -89,15 +92,10 @@ $.ajaxSetup({
         'Bearer ' + localStorage.getItem('id_token'));
     }
   }
-});
+});*/
  
-    $('.btn-api').click(function(e) {
-        // Just call your API here. The header will be sent
-    })
-
+   
 }
-
-
  
 
 
@@ -113,9 +111,13 @@ $.ajaxSetup({
 
 
 function submitPost() {
+ var text;
+ if (regEmail==="ralphpal@hotmail.com" || "eojohn@packer.edu" ){
+    text = $('#message').val();
 
+ }else{
+return false; }
 //  var messageRef = new Firebase('https://hack-the-valley.firebaseio.com/messages');
-   var text = $('#message').val();
 
   if (text===""){
     alert("You need to have a value in the field")
